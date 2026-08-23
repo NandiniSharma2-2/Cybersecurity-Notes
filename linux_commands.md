@@ -1,5 +1,5 @@
 Linux Commands : 
-'''
+
 1. pwd   : print current working directory
 
 2. dir   : print contents of current directory or selected path
@@ -185,7 +185,6 @@ x = execute
 # sudo commands:
 
 --sudo : Temporarily grants elevated permission to a specific user.
-'''
 
 1. add a user :
    sudo useradd username.
