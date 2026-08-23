@@ -77,7 +77,6 @@ Linux Commands :
 
 16. nano  : a) Terminal based file editor, open an existing file in nano from the selected
               directory
-
             b) Create a new file
 
     nano filename
